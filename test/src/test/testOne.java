@@ -6,5 +6,6 @@ public class testOne {
     @Test
     public void test1(){
         System.out.println("我们是student");
+        System.out.println(1234566);
     }
 }
